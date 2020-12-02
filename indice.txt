@@ -1,0 +1,10 @@
+1. instalacion proyecto laravel establecimientos, creacion y configuracion de BD, configuracion de mailtrap
+2. instalacion bootstrap, vue y configuracion de verificacion de email para el usuario
+3. configurar en español el proyecto
+4. instalar leafletjs
+5. configurar dropzone para imagenes
+6. instalar vuex
+7. instalar leaflet para mostrar el mapa: npm i --save-dev vue2-leaflet,
+    como complemento: npm i --save leaflet
+8. instalar lightbox2: npm i --save-dev lightbox2 //para mostrar imagenes
+9. instalar vue-page-transition : npm i --save-dev vue-page-transition
